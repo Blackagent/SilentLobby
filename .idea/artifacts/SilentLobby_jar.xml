@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SilentLobby:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SilentLobby_jar</output-path>
+    <root id="archive" name="SilentLobby.jar">
+      <element id="module-output" name="SilentLobby" />
+    </root>
+  </artifact>
+</component>
